@@ -1,0 +1,8 @@
+joblib
+pickle
+pandas
+numpy
+re
+uvicorn
+fastapi
+pydantic
