@@ -4,5 +4,6 @@ pandas
 numpy
 re
 uvicorn
+scikit-learn
 fastapi
 pydantic
